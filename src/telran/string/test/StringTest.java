@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class StringTest {
     
+
 	@Test
 	@DisplayName("TEST OF THE METHOD CONCAT")
 	void concatTest() {
